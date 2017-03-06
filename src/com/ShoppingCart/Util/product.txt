@@ -1,0 +1,8 @@
+1,Apple,200,100
+2,Mango,100,100
+3,Banana,500,50
+4,Carrot,100,20
+5,Beer,100,200
+6,Soap,100,200
+7,Towel,100,200
+8,Pendrive,100,300
